@@ -1,0 +1,100 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #ff5c0a;
+  color: whitesmoke;
+  height: 900px;
+}
+
+.title {
+  position: absolute;
+  left: 630px;
+  top: 50px;
+}
+
+.subTitle {
+  position: absolute;
+  left: 595px;
+  top: 100px;
+}
+
+.keys {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.key {
+  border: 0.4rem solid black;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem 0.5rem;
+  transition: all 0.07s ease;
+  width: 10rem;
+  text-align: center;
+  color: white;
+  background: rgba(0, 0, 0, 0.4);
+  text-shadow: 0 0 0.5rem black;
+}
+
+/* .box1 {
+  position: absolute;
+  left: 60px;
+  top: 200px;
+}
+
+.box2 {
+  position: absolute;
+  left: 150px;
+  top: 200px;
+}
+
+.box3 {
+  position: absolute;
+  left: 250px;
+  top: 200px;
+}
+
+.box4 {
+  position: absolute;
+  left: 350px;
+  top: 200px;
+}
+
+.box5 {
+  position: absolute;
+  left: 480px;
+  top: 200px;
+}
+
+.box6 {
+  position: absolute;
+  left: 600px;
+  top: 200px;
+}
+
+.box7 {
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
+
+.box8 {
+  position: absolute;
+  left: 800px;
+  top: 200px;
+}
+
+.box9 {
+  position: absolute;
+  left: 900px;
+  top: 200px;
+} */
